@@ -1,2 +1,2 @@
 # trapi2009.github.io
-This is the mage project page of my page.
+This is the main project page of my webpage.
